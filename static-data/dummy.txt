@@ -1,0 +1,257 @@
+"MLBB" redirects here; not to be confused with MLB.
+Mobile Legends: Bang Bang
+
+Logo since 21 December 2024
+Developer(s)	Moonton
+Publisher(s)	Moonton
+Elex Technology
+Designer(s)	Skyhook[2]
+Engine	Unity[3]
+Platform(s)	Android, iOS
+Release	Android
+WW: 14 July 2016
+iOS
+WW: 9 November 2016[1]
+Genre(s)	Multiplayer online battle arena
+Mode(s)	Multiplayer
+Mobile Legends: Bang Bang (MLBB) is a mobile multiplayer online battle arena (MOBA) game developed and published by Chinese developer Moonton, a subsidiary of ByteDance. The game was released in 2016 and grew in popularity, most prominently in Southeast Asia.[4]
+
+At its base gameplay, the game puts 2 teams of 5 against each other in real time with at least 20-60 second matchmaking and 10–30-minute matches. Featuring traditional battle arena gameplay, players must fight over three lanes to take the enemy's tower and defend their own while securing objectives in order to pressure the opposing team. Like classic MOBAs, there is no hero training to level up or pay to play angle—winners and losers are decided based on skill, ability, and strategy.[5]
+
+Following success, Moonton has tapped into the esports scene with the creation of several regional tournaments dubbed as Mobile Legends: Bang Bang Professional League (MPL) that serves as a qualifier for the Mobile Legends World Championships.[6] It was among the six games chosen for the first medal event of esports competition at the 2019 Southeast Asian Games (SEA) held in the Philippines.[7] The game was also a medal event in the last SEA Games in Cambodia and will be one too in 2025, to be held in Thailand.[8]
+
+Originally named Mobile Legends: 5v5 MOBA,[9] the initial release of the game in 2016 was met with criticism citing similarities with another MOBA game, League of Legends. As a result, Riot Games filed a lawsuit against Moonton for copyright infringement in July 2017 and May 2022.[10][11] In June 2020, the game was banned in India along with 58 other Chinese apps due to security concerns by the government. On 18 January 2025, the app was banned along with other ByteDance apps in the United States. However the ban has since been lifted and the game has returned to US app store.
+
+Gameplay
+Mobile Legends: Bang Bang is a multiplayer online battle arena (MOBA) game designed for mobile phones. The game is free-to-play and is only monetized through in-game purchases like characters and skins. Each player can control a selectable character, called a Hero, with unique abilities and traits. There are six roles that define the main purpose of heroes: Tank, Marksman, Assassin, Fighter, Mage, and Support. These roles determine the responsibilities of players for their respective teams. Players can also set specific builds for heroes which include in-game items and emblems.[12]
+
+Ranked and classic
+
+Overview of the in-game map
+Two teams of five players go against each other in real-time. Players will be matched in correspondence with their current ranking. There are seven ranks in the game with Warrior being the lowest followed by Elite, Master, Grandmaster, Epic, Legend, and the highest rank, Mythic.[13] A player can only invite and form a team with other players of similar rank or players that are one rank higher or lower.
+
+Taking down the opposing base is the main goal to achieve victory. There are three lanes in the game: The gold lane (top), exp lane (bottom), and the mid lane. Depending on what side of the map (blue or red) a player starts on, the gold and exp lanes will be switching places. Between each lane is the jungle. The jungle can be divided into four parts: two between the enemy's lanes and two between a player's team lanes. The jungle has different creeps and monsters that offer buffs, experience, and gold.
+
+A player cannot attack the enemy base directly without taking down opposing turrets in at least one lane first. Each lane has three turrets that shoot at heroes and deal a ton of damage. To attack them without taking damage, a player needs help from their team's minions. Minions constantly spawn at the teams' bases and travel down along each lane. The team to successfully destroy all the turrets in one or all lanes will increase their chances of destroying the opposite team's base.[14]
+
+In classic mode, the gameplay is similar. However, winning or losing a match won't affect a player's ranking. Players can also form a whole team regardless of their rank differences and freely choose any heroes along with weekly free ones and any trial card they possess.
+
+Arcade and other modes
+Arcade is an additional game mode in Mobile Legends: Bang Bang that can time-to-time be playable during special events, holidays, or occasions. The mode feature various strategy based sub-games.
+
+Brawl is a game mode where players are given two random heroes in their inventory at the start of the game. This mode contains only one lane with two turrets defending the base of both teams. Items can only be bought inside the base and players that leave it cannot re-enter unless when respawning. A special variation called Shadow Brawl is released from time to time. The difference is players at the start of the game will choose from the same set of heroes. The hero with the most votes will be used by the entire team.[15]
+
+As an auto battler game, Magic Chess is about strategy. A player, represented by a "commander", faces seven other players over the course of several rounds on a chess-like battlefield. Instead of fighting one's self, a player buys, equips, and lines up units that constitute Mobile Legends: Bang Bang Heroes. Apart from different types of "synergies", a player has to delegate the random items they gained while also taking care of the specific position of each hero on the battlefield. Additionally, a player can increase their gold income by economizing or going on winning/losing streaks. In the end, a player has to eliminate the other competing players by reducing the health points of their commander to zero. Depending on a player's placement, they will gain a certain amount of rank points after the game. Starting at Warrior, players can rank up to Mythic similar to the core game's ranking system. In update patch note 1.4.60, Magic Chess was included as a permanent arcade game mode, after temporarily being added in January 2020.[16] This and Brawl are the only permanent arcade modes so far.
+
+Various arcade games use the same battlefield as rank/classic mode but with twists. These modes include Mayhem,[17] where all heroes' abilities are enhanced and a player starts the game at level four, Death battle,[18] where players will play different heroes in a single match, and Mirror, where players of the same team will be using the same hero throughout the match based on majority voting.
+
+Other game modes include an option to fight against AI heroes, custom 5v5 battles with other players, and hero training.
+
+Development
+After Moonton's staff of 20 finished developing its first game called Magic Rush: Heroes, released in 2015 to commercial success, they proceeded with developing the company's next project, a mobile multiplayer online battle arena (MOBA) game later titled Mobile Legends. The staff's experience with engineering Magic Rush: Heroes for a global market, such as customizing its features for the differing cultures and state of telecommunications of various countries, became beneficial for them to effectively design Mobile Legends as an appealing game for global players.[19] Mobile Legends was released by Moonton with the subtitle "5v5 MOBA" on 14 July 2016.[20] The game was distributed by Elex Tech in the United States.[21] However, after the lawsuit from Riot Games in 2017, Moonton has removed the game from Google Play and re-released it as Mobile Legends: Bang Bang.[22]
+
+Mobile Legends: Bang Bang was affected by CVE-2015-8271 (FFmpeg RTMP video streaming), a vulnerability that also affected apps like Facebook, Messenger, and SHAREit. The results suggested that the use of third-party components and open source resources, including libraries, may have led to old, vulnerable code still being present in apps.[23][24]
+
+On 18 July 2019, Moonton announced Mobile Legends: Bang Bang 2.0 via its Epicon 2019 conference. MLBB 2.0 consists of an engine upgrade to a more recent version of the Unity game engine from version 4 to version 2017.[25][26] Moonton also promised faster loading times and start-up speed of up to 60%.[27] Other improvements of the update include reduced lag, improved character modelling, and the new in-game map "Imperial Sanctuary".[28] The update helped increase the cross-platform social media views earned by the game from 56 million in September 2019 to 76 million the next month making the game ranked fourth of all channels from all gaming brands in the US.[29]
+
+In early 2020, the game was heavily affected by third-party plugins and scripts that allowed map-hacks prompting Moonton to publicly publish punishments made through its social media accounts revealing the account ID of the banned players.[30][31] Some accounts were also hacked due to exploits to Device ID that may have been due to the third-party scripts according to an official statement from Moonton.[32] In response, patch 1.4.86 enabled two-factor authentication when logging in to a new device.[33]
+
+Announced on 5 June 2020, Project NEXT was Moonton's next big project slated for Mobile Legends: Bang Bang's 5th anniversary. This included changes in user interface, revamps to several older heroes' 3D models, skill sets, stories, and voice lines. They announced a method called "Smart Targeting" to further improve accuracy.[34] There were multiple changes that were specifically aimed at providing players with a much-improved gameplay experience, including the launch of a revamped version of the Brawl game mode. New login events, exclusive cosmetics, and a new hero was introduced with this update.[35] Project NEXT was divided into three phases: The first phase was released on 22 September 2020, the second phase was released on 15 June 2021, and the third phase was released on 21 September 2021.[citation needed]
+
+The game has since crossed 1 billion downloads, with peak monthly players of 100 million.[36][37]
+
+Characters and lore
+
+Land of Dawn excerpt from the app
+Mobile Legends: Bang Bang initially had 10 selectable characters, referred to as Heroes, upon its release in 2016. It later grew to 70 by November 2018,[38] and as of July 2025, 129 heroes are in the live server with Obsidia set to be released in the next update as 130th hero.[39]
+
+With the game's popularity exponentially growing in Southeast Asia, Moonton has released several heroes based on actual people and characters from Southeast Asian histories and folklore to further increase the game's appeal,[40] introducing heroes such as Lapu Lapu (Philippines),[41] Minsitthar (based on Kyansittha; Myanmar),[42][43] Kadita (based on Nyai Roro Kidul; Indonesia),[44] and Badang (Malaysia).[45] In June 2017, Moonton approached Is Yuniarto, an Indonesian comic book artist best known for Garudayana (a Javanese action fantasy comic series), to include Gatotkaca from the comics as a playable character in Mobile Legends: Bang Bang. Gatotkaca is based loosely on Ghatotkacha, a character from the Hindu epic Mahabharata. In November 2020, Moonton announced Filipino professional boxer Manny Pacquiao as the brand ambassador for Mobile Legends: Bang Bang in the Philippines. To commemorate the partnership, Moonton also launched a hero based on Pacquiao in the game known as Paquito.[46]
+
+Occasionally, Moonton releases multiple skin series with accompanying stories separate from the central lore. Heroes are usually grouped into Squads; the most notable of which are the superhero and supervillain squads that are comic book-inspired.[47][48] On 10 January 2022, Moonton announced their first anime-themed skin series called The Aspirants, featuring Japanese voice actresses Yoshino Nanjō and Nana Mizuki with original music from composer Yasuharu Takanashi.[49][50]
+
+Related media
+Collaborations
+Over the years, Mobile Legends: Bang Bang has collaborated with different franchises to release purchasable character customization called skins.
+
+In March 2019, Moonton approached SNK for collaboration, introducing characters from The King of Fighters game series as skins in the game.[51] These skins have unique ability effects and voice-overs. The first series skins released in the game were Iori Yagami for the hero Chou, Leona Heidern for Karina, and Athena Asamiya for Guinevere.[52] The second series skins released were Kula Diamond for the hero Aurora, K' for Gusion, and Orochi Chris for Dyrroth.[53]
+
+In July 2021, Mobile Legends: Bang Bang collaborated with Star Wars to release two "epic skins" which were Master Yoda for the hero Cyclops and Darth Vader for Argus.[54] In December 2021, the collaboration returned and a third epic skin, Obi-Wan Kenobi for the hero Alucard, was released.[55] The event was time-limited purchase and exclusive in Southeast Asia and Japan. The collaboration was returned in September 2024 with the same skins released.[56]
+
+In August 2021, Mobile Legends: Bang Bang released a skin collaboration with the media franchise Transformers which included Optimus Prime, Megatron, and Bumblebee for the heroes Johnson, Granger, and X.Borg respectively. The event was divided into four phases spanning from August to November with lottery and exchange-type mechanics. This event was also time-limited.[57]
+
+In February 2022, Mobile Legends: Bang Bang announced its collaboration with Sanrio featuring the characters Hello Kitty, Badtz-maru, Cinnamoroll, and Pompompurin.[58]
+
+In August 2022, Moonton announced a skin collaboration with Kung Fu Panda. It will feature three new exclusive skins: General Kai for the hero Thamuz, Po Ping for Akai, and Lord Shen for Ling.[59]
+
+In February 2023, Mobile Legends: Bang Bang and Jujutsu Kaisen announced its third anime-themed collaboration skin featuring Yuji Itadori for Yin, Megumi Fushiguro for Julian, Satoru Gojo for Xavier, and Nobara Kugisaki for Melissa.[60][61] The collaboration was a long time coming after a long-year teaser through in-game survey.[62] The collaboration was returned in June 2024 with an updated visual effects on Yin's ultimate skill features Sukuna when using Yuji Itadori skin.[63]
+
+In January 2024, Mobile Legends: Bang Bang and Attack on Titan announced its epic collaboration featuring Eren Yeager for Yin, Mikasa Ackerman for Fanny, and Levi Ackerman as Martis.[64][65]
+
+For upcoming January 2025, Mobile Legends: Bang Bang and Hunter x Hunter will announcing its collaboration featuring Killua Zoldyck as Harith, Gon Freecss as Dyrroth, Hisoka Morow as Cecillion, and Kurapika as Julian.[66][67] Leaks as confirmed that Naruto will make a collaboration with the game featuring biggest hero pool ever featured two new heroes of Lukas and Kalea.[68]
+
+In May 2025, Mobile Legends: Bang Bang and Naruto: Shippuden announced its collaboration featuring Naruto Uzumaki as Lukas, Sasuke Uchiha as Suyou, Kakashi Hatake as Hayabusa and Sakura Haruno as Kalea [69]
+
+Spin-offs
+On 31 July 2019, Moonton released a spin-off game titled Mobile Legends: Adventure, an idle role-playing video game where players start with a hero and unlock various features by progressing through a campaign. The game features several characters from Mobile Legends: Bang Bang.[70]
+
+Moonton released its first animated television series titled Legends of Dawn: The Sacred Stone directed by Ziaolong Zhang. It follows the story of Mobile Legends: Bang Bang's hero Claude and his monkey sidekick Dexter, as they steal an artifact from the Imperial Capital.[71] The animated series premiered on Tencent's streaming services WeTV and Iflix on 5 September 2021, and made its television premiere on TV9 in Malaysia, NET. in Indonesia, and ABS-CBN Corporation's Kapamilya Channel and A2Z (owned by ZOE Broadcasting Network) in the Philippines on 19 September 2021.[72][73]
+
+In November 2024, Moonton release a spin-off game based on MLBB heroes titled Magic Chess: Go Go (MCGG), set in the same universe as MLBB through its soft launch in Malaysia and Singapore.[74] The game received 8 million registration on the soft launch, thus trigger imminent release in both countries.[75] The first look of the game was presented on 14 December 2024, after Team Liquid ID sweep home 3–0 against Selangor Red Giants on lower bracket final in M6 World Championship.
+
+Esports
+Domestic tournaments
+Mobile Legends: Bang Bang Professional League (MPL)
+See also: MPL Philippines and MPL Indonesia
+Mobile Legends: Bang Bang Professional League (MPL) is a series of official regional tournaments that was established in 2018 that serve as qualifiers for MSC and the World Championship. The regions that received the first Professional League season were Indonesia, Philippines, Malaysia, Singapore, and Myanmar. However, Malaysia and Singapore shared the same league at that time until Singapore received its own league season in 2021.[76] In August 2021, Moonton announced MPL Brazil, the first MPL league outside the SEA region.[77] Cambodia also received its own MPL league, in partnership with Smart Axiata, the leading telecommunications operator in the region.[78]
+
+Regions outside Southeast Asia without an official MPL had their own qualifier tournaments such as the Mobile Legends: Bang Bang: Gulf Cup 2020 and M3 Arabia Major for the Middle East and North African region,[79] and the M3 World Championship North American (NA) Qualifier 2021 for the North American region.[76]
+
+On 22 October 2024, MPL has made history becoming the first ever e-sports event to reached 1 billion hours of watching time, beating out its closest rivals such as League of Legends Worlds and League of Legends Champions Korea (LCK).[80]
+
+International tournaments
+Mobile Legends: Bang Bang Mid Season Cup
+Main article: Mobile Legends: Bang Bang Mid Season Cup
+The first official esports competition held by Moonton was the Mobile Legends: Bang Bang Southeast Asia Cup (MSC) in 2017.[81] It is an annual Mobile Legends: Bang Bang esports tournament in Southeast Asia. The tournament consists of different teams from different countries in Southeast Asia such as Malaysia, Philippines, Indonesia, Thailand & Singapore (since 2017), Vietnam and Myanmar (since 2018),[82] Cambodia and Laos (since 2019),[83] and Middle East and North Africa region (since 2022).[84] In 2017, teams were chosen only through a series of local qualifiers. However, starting 2018, participants were invited through local qualifiers and the top two teams from Southeast Asian countries with established Mobile Legends: Bang Bang Professional Leagues.
+
+On 5 November 2020, One Esports and Moonton announced a new tournament called One Esports MPL Invitational (MPLI) where 20 invited teams will compete in a series of single elimination matches for a prize pool of US$100,000.[85] On 15 December 2021, Moonton, in partnership again with One Esports, announced its first ever all-female esports tournament called the MLBB Women's Invitational (MWI) with a prize pool of US$15,000.[86]
+
+On 1 January 2024, the Mobile Legends: Bang Bang Road Map for 2024 was released on the official YouTube channel of Moonton games. The announcement saw the rebranding of the MSC cup to the "Mid-Season Cup", relinquishing the tournament's regional status to become another international tournament for Mobile Legends.[87]
+
+World championship
+Main article: Mobile Legends: Bang Bang World Championship
+The Mobile Legends: Bang Bang World Championship, commonly referred to as M-Series and Worlds, is an annual international esports tournament wherein teams worldwide would be facing off each other to become the worldwide champion for Mobile Legends: Bang Bang. The first MLBB World Championship, dubbed as M1, was held in Axiata Arena in Kuala Lumpur, Malaysia from 15 to 17, November 2019. The competition featured 16 teams across the world who battled it out for a prize pool of US$250,000.[88][89] The second world championship, dubbed as M2, was supposed to kick off in 2020 but was postponed due to the COVID-19 pandemic. It was later on rescheduled and was held at Shangri-La Hotel in Singapore in January 2021 with a prize pool of US$300,000.[90] The third world championship, dubbed as M3, was held in Singapore for the second time and had an increase prize pool of US$800,000.[91] It had a peak viewership of 3.18 million, breaking the record from M2.[92]
+
+All winning teams were given an exclusive honorary skin in-game from a hero of their choosing to commemorate their championship to which players can purchase for a limited time.[93] Since M5, winner of the Finals MVP (FMVP) will received the skin for their signature hero.[94] The first winner, David Charles "FlapTzy" Canon from AP Bren chose Paquito as his FMVP skin.
+
+Controversies
+Alleged plagiarism
+After the game's initial release, Riot Games suspected that the game Mobile Legends: 5v5 MOBA was imitating the intellectual property of League of Legends and contacted Google to remove the game from Google Play. Moonton then removed the game before Google could take it down and eventually relaunched it with the altered name Mobile Legends: Bang Bang on 9 November 2016.[20]
+
+In July 2017, Riot Games filed a lawsuit against Moonton because of copyright infringement, citing similarities between Mobile Legends and League of Legends.[95] Riot Games also complained that the name title of Mobile Legends sounds confusingly similar to League of Legends.[96] The case was dismissed in the Central District Court of California in the United States on account of forum non conveniens.
+
+Tencent, Riot's parent company, on behalf of Riot Games, then filed a new, separate lawsuit directly targeting Moonton's CEO, Watson Xu Zhenhua (as he had previously worked in Tencent as a senior employee) in Shanghai No.1 Intermediate People's Court, for violating a law regarding Non-Compete Agreements, which ruled in Tencent's favor in July 2018, awarding them a settlement of $2.9 million (RMB19.4 million).[97][98]
+
+Country ban
+Mobile Legends: Bang Bang was banned in India on 29 June 2020 in the aftermath of the 2020 China-India skirmish.[99]
+
+Monopoly on esports
+In July 2021, Moonton has allegedly disallowed Mobile Legends: Bang Bang esports organizations to create teams for League of Legends: Wild Rift and was criticized by the Team Secret CEO that the move "cannot be good from a healthy ecosystem or competitive integrity standpoint."[100][101] An unnamed source then later clarified that there is indeed an exclusivity contract but was only optional and that Moonton will give benefits to those who agree on the exclusivity. Some Mobile Legends: Bang Bang esports organizations still have teams for Wild Rift.[102]
+
+Preferability conflict with Blacklist International
+In December 2021, following the triumph of esports team Blacklist International on M3, they were entitled to choose a specific hero for their championship skin. Team captain Johnmar "OhMyV33nus" Villaluna alleged on a live stream on 22 December, that their request to give the championship skin to the hero Estes was denied, claiming that the developers had to consider the "marketability" of the hero. Instead, Moonton asked for three heroes other than Estes as preference, meaning that Moonton will choose one from those three heroes for the M3 championship skin rather than Blacklist International's initial choice, Estes.[103]
+
+The hashtag #WeWantEstes trended on different social media platforms from the morning of 23 December, with Blacklist co-owners Tryke Gutierrez and Alodia Gosiengfiao and teams such as ECHO Philippines and Bren Esports joining the call for Moonton to rescind their decision.[104][105] Other supporters vented their frustrations by giving Mobile Legends: Bang Bang the lowest rating on Google Play Store.[103]
+
+On 24 December, Moonton announced "To our beloved gamers, Estes is the chosen champion M3 skin. We have heard your voices, and we will proceed with Blacklist International's choice. Merry Christmas, and may all your wishes come true." through their social media pages.[106]
+
+References
+ Wasid, Ahmed (11 August 2019). "Is Mobile Legends: Bang Bang the next big mobile esport?". DotEsports.com. Archived from the original on 6 February 2020. Retrieved 1 October 2019.
+ Bhatiya, Rajiv (30 December 2021). "MLBB Developers Talk About Their Journey And The Roadmap For The Future 5 Years". Flizzyy. Archived from the original on 1 January 2022. Retrieved 1 January 2022.
+ Low, Aloysius (18 July 2019). "Mobile Legends: Bang Bang is getting an engine update | ONE Esports - The Home Of Esports". ONE Esports. Archived from the original on 9 December 2019. Retrieved 9 October 2019.
+ Racoma, Arthur (4 July 2021). "Why Mobile Legends is so popular in South East Asia (SEA) region". Gaming on Phone. Archived from the original on 1 December 2022. Retrieved 1 January 2022.
+ "MOONTON Games' Mobile Legends: Bang Bang Gets a Major Refresh and Exclusive Content for 5th Anniversary". IGN. 30 September 2021. Archived from the original on 30 December 2021. Retrieved 30 December 2021.
+ Rossel, John Dave (3 September 2021). "What is MPL? A Brief History of Mobile Legends: Bang Bang Professional League". AFK Gaming. Archived from the original on 30 December 2021. Retrieved 30 December 2021.
+ Tuting, Kristine (4 December 2019). "Esports at SEA Games 2019: Everything you need to know". One Esports. Archived from the original on 30 December 2021. Retrieved 30 December 2021.
+ BERNAMA (13 November 2024). "MLBB CONFIRMED FOR 2025 SEA GAMES IN THAILAND". BERNAMA. Retrieved 16 November 2024.
+ Barreiro, Victor Jr. (11 July 2017). "Riot Games sues mobile game developer for copyright infringement". Rappler. Archived from the original on 28 May 2023. Retrieved 1 January 2022.
+ Mickunas, Aaron (18 July 2018). "Riot Games parent Tencent wins $2.9 million in lawsuit against Moonton CEO". Dot Esports. Archived from the original on 11 July 2019. Retrieved 30 December 2021.
+ Elona, Jules (23 November 2022). "US court dismisses Riot Games' copyright infringement lawsuit against Moonton". One Esports. Archived from the original on 6 March 2023. Retrieved 6 March 2023.
+ "Mobile Legends: The complete beginner guide". Gaming on Phone. 5 December 2019. Archived from the original on 31 December 2021. Retrieved 31 December 2021.
+ Rossel, John Dave (25 March 2021). "Mobile Legends Ranks: Full List of Tiers and End of Season Rewards". AFK Gaming. Archived from the original on 31 December 2021. Retrieved 31 December 2021.
+ Ahmed, Wasif (3 December 2021). "Beginner's guide to Mobile Legends: Bang Bang (MLBB)". Dot Esports. Archived from the original on 31 December 2021. Retrieved 31 December 2021.
+ "Shadow Brawl Guide – New Mobile Legends Game Mode". DIGIPARADISE. 20 November 2020. Archived from the original on 28 May 2023. Retrieved 1 January 2022.
+ "Magic Chess Bang Bang: Beginner's guide". Gaming on Phone. 21 January 2020. Archived from the original on 1 January 2022. Retrieved 1 January 2022.
+ Elona, Jules (23 February 2021). "The 3 most overpowered heroes in MLBB's Mayhem mode". One Esports. Archived from the original on 1 January 2022. Retrieved 1 January 2022.
+ Choudhury, Sayan (13 May 2020). "Mobile Legends Death Battle Mode Guide". Gaming on Phone. Archived from the original on 1 January 2022. Retrieved 1 January 2022.
+ 白鲸出海 (26 November 2018). "沐瞳科技创始人袁菁解读《无尽对决》：从一天推广费亏30万美金到成为印尼国民手游". 卖家之家 (in Chinese). mjzj.com. Archived from the original on 13 June 2020. Retrieved 30 May 2020. 2015 年，沐瞳科技研发出了他们的第一款游戏，叫做《Magic Rush：Heroes》（魔法英雄），Google Play 和 Apple store 都在全球进行了推荐，巅峰时期的收入达到了一个月 900 多万美金。"这算是成功了。"袁菁说道。。。。在《Magic Rush：Heroes》这款游戏上，沐瞳科技积累了很多经验。首先，他们每一周都给用户提供新的体验、新的内容。其次，他们想各种办法去适应，迎合当地市场的文化、宗教甚至是移动网络。比如，在用户打赢游戏后，通常会出现"恭喜你赢了！"这几个字。。。
+ "Riot Games sues mobile game developer for copyright infringement". Rappler. 11 July 2017. Archived from the original on 21 October 2021. Retrieved 24 January 2021.
+ Batchelor, James (12 July 2017). "Riot Games suing Chinese developer behind League of Legends clone". gamesindustry.biz. Archived from the original on 23 December 2019. Retrieved 23 December 2019.
+ Cowley, Ric (12 July 2017). "Riot Games sues Mobile Legends developer Shanghai Moonton Technology for copyright infringement". PocketGamer.biz. Retrieved 1 January 2022.
+ Makkaveev, Slava (November 2019). "Long-known Vulnerabilities in High-Profile Android Applications". Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+ Osborne, Charlie (21 November 2019). "Popular apps on Google Play linked to old remote code execution bugs". ZDNet. Archived from the original on 11 August 2020. Retrieved 7 June 2020.
+ "WATCH: NEW MOBILE LEGENDS ON UNITY 2017 ENGINE RUNS BETTER". 27 July 2019. Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+ Low, Aloysius (18 July 2019). "Mobile Legends: Bang Bang is getting an engine update". ONE ESPORTS. Archived from the original on 9 December 2019. Retrieved 9 October 2019.
+ Ahmed, Wasif (11 August 2019). "Is Mobile Legends: Bang Bang the next big mobile esport?". DOT ESPORTS. Archived from the original on 6 February 2020. Retrieved 1 October 2019.
+ "New Game, Major Update - World Championship and more revealed in MOONTON Epicon 2019: The Future Begins Global Conference". ABS-CBN Sports. 24 July 2019. Archived from the original on 29 October 2019. Retrieved 7 June 2020.
+ Cassillo, John (29 November 2019). "Mobile Legends: Bang Bang's 2.0 update gives it big social media boost". VentureBeat. Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+ Cropley, Steven (21 March 2020). "Mobile Legends: Bang Bang cracking down on map hack users, perma-bans on the menu". VPESPORTS. Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+ "eSports and Third-Party Plugins: a Dangerous Relationship". PLAYERONE. Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+ "Mobile Legends Account Hacking". 14 May 2020. Archived from the original on 22 June 2020. Retrieved 19 June 2020.
+ "Mobile Legends – 1.4.86 Patch Notes | New Hero Black Dragon". All Patch Notes. 15 June 2020. Archived from the original on 22 June 2020. Retrieved 19 June 2020.
+ "Mobile Legends: Bang Bang Reveals Project "NEXT"". ABS-CBN Sports. 6 June 2020. Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+ Michael, Cale (29 September 2021). "Mobile Legends: Bang Bang details its Project NEXT update, launches 5th Anniversary Celebration event". Dot Esports. Archived from the original on 22 November 2022. Retrieved 1 January 2022.
+ Tan, Amanda (3 November 2020). "Mobile Legends surpasses 1 billion downloads". One Esports. Archived from the original on 21 September 2021. Retrieved 30 December 2021.
+ Murillo, Michael Angelo (22 November 2020). "Pacquiao is now Mobile Legends: Bang Bang PH ambassador". Business World. Archived from the original on 30 December 2021. Retrieved 30 December 2021.
+ Sheany (9 November 2018). "Game Developers Should Focus on Each Country's Unique Culture: Moonton Chief Executive". Jakarta Globe. Nusa Dua. Archived from the original on 23 December 2019. Retrieved 29 May 2020.
+ "All Mobile Legends Heroes in Order of Release". Rivalry. Retrieved 26 January 2025.
+ "Mobile Legends: Bang Bang unleashes Southeast Asian warriors • SEA Wave". SEA Wave. 27 June 2020. Archived from the original on 13 July 2020. Retrieved 11 July 2020.
+ Mobile Legends: Bang Bang (19 May 2017). "Mobile Legends: Bang bang! New Hero |Lapu Lapu| Gameplay". YouTube. YouTube LLC. Archived from the original on 29 August 2020. Retrieved 29 May 2020.
+ Mobile Legends: Bang Bang (18 November 2018). "New Hero | Courageous Warrior | Minsitthar | Mobile Legends: Bang Bang!". YouTube. YouTube LLC. Archived from the original on 29 August 2020. Retrieved 29 May 2020.
+ News Desk (9 December 2019). "Southeast Asian legends highlighted in App Store's 'Mobile Legends' spotlight". The Jakarta Post. Jakarta: PT. Niskala Media Tenggara. Archived from the original on 11 June 2020. Retrieved 29 May 2020.
+ The Jakarta Post (24 December 2018). "Character inspired by mythical queen of the Southern Sea appears in Mobile Legends". The Jakarta Post. Archived from the original on 10 April 2019. Retrieved 31 May 2020.
+ Mobile Legends: Bang Bang (12 January 2019). "New Hero | Tribal Warrior | Badang | Mobile Legends: Bang Bang!". YouTube. YouTube LLC. Archived from the original on 29 August 2020. Retrieved 29 May 2020.
+ Tan, Amanda (28 January 2021). "The beginner's guide to Paquito, MLBB's newest fighter". One Esports. Archived from the original on 2 January 2022. Retrieved 2 January 2022.
+ Rossel, John Dave (26 January 2021). "All Five Confirmed Hero Squad Skins in MLBB". AFK Gaming. Archived from the original on 10 January 2022. Retrieved 10 January 2022.
+ Elona, Jules (20 September 2021). "General Void Alpha is the first-ever super villain squad skin in MLBB". One Esports. Archived from the original on 29 January 2023. Retrieved 10 January 2022.
+ Elona, Jules (12 January 2022). "MLBB's The Aspirants anime skins: Release date, events, rewards". One Esports. Archived from the original on 22 September 2023. Retrieved 13 January 2022.
+ Tuting, Kristine (24 January 2022). "The Aspirants 'We Believe' cinematic is an anime masterpiece by Moonton". One Esports. Archived from the original on 28 May 2023. Retrieved 26 January 2022.
+ "King of Fighters And Mobile Legends Have An EPIC Collaboration!". Archived from the original on 26 September 2019.
+ "Warung Top Up - Beli Diamond ML Termurah". Warung Top Up. 18 March 2018. Retrieved 1 October 2019.
+ Fajar (16 August 2019). "Skin KOF V.2 Will Be Released For Dyrroth, Aurora, & Gusion". FajarYusuf.Com. Archived from the original on 2 December 2020. Retrieved 20 September 2020.
+ Elona, Jules (5 May 2021). "Mobile Legends x Star Wars, play as Yoda and Darth Vader will you?". One Esports. Archived from the original on 28 May 2023. Retrieved 2 January 2022.
+ Tan, Amanda (17 December 2021). "Obi-Wan Kenobi Alucard is the way, the truth, and the light". One Esports. Archived from the original on 7 June 2023. Retrieved 2 January 2022.
+ Kabir, Ahsan (7 September 2024). "MLBB x Star Wars Collab Returns: Release Date, Skins and More". Esports.net. Retrieved 27 December 2024.
+ Elona, Jules (17 August 2021). "MLBB x Transformers skins: Release date, events, rewards". One Esports. Archived from the original on 27 February 2023. Retrieved 2 January 2022.
+ Tan, Amanda (22 February 2022). "These MLBB Sanrio characters skins are super cute and adorable!". One Esports. Archived from the original on 31 March 2023. Retrieved 22 February 2022.
+ Elona, Jules (18 August 2022). "MLBB Kung Fu Panda skins: Release date, event, rewards, mechanics". One Esports. Archived from the original on 26 March 2023. Retrieved 19 August 2022.
+ "MLBB Jujutsu Kaisen skins: Release date, rewards, event | ONE Esports". www.oneesports.gg. 16 February 2023. Retrieved 27 December 2024.
+ "MLBB x Jujutsu Kaisen: Release date, skins, and how to get them". esports.gg. 9 June 2025. Retrieved 27 December 2024.
+ "MLBB x Jujutsu Kaisen collaboration is happening this month | ONE Esports". www.oneesports.gg. 9 February 2023. Retrieved 27 December 2024.
+ Dey, Subhadip (28 May 2024). "MLBB x Jujutsu Kaisen skins making a comeback with Yuji's fresh new look". www.sportskeeda.com. Retrieved 27 December 2024.
+ "Scout Regiments, assemble for the Mobile Legends: Bang Bang x Attack on Titan collaboration!-Develop games and fun for players all over the world". en.moonton.com. Retrieved 27 December 2024.
+ "Attack on Titan MLBB skins: Release date, event, rewards, mechanics | ONE Esports". www.oneesports.gg. 31 January 2024. Retrieved 27 December 2024.
+ Dey, Subhadip (16 August 2024). "Leak suggests Moonton Games will release Mobile Legends Bang Bang Hunter x Hunter collaboration". www.sportskeeda.com. Retrieved 27 December 2024.
+ Kabir, Ahsan (19 August 2024). "MLBB x Hunter x Hunter Collab: Leaks, Characters, and more". Esports.net. Retrieved 27 December 2024.
+ "Naruto MLBB is real! Iconic shonen anime is coming to MLBB | ONE Esports". www.oneesports.gg. 6 November 2024. Retrieved 27 December 2024.
+ https://www.thegamer.com/mobile-legends-bang-bang-naruto-collab-event-guide/
+ Murillo, Michael Angelo (7 July 2019). "Mobile Legends spin-off game out later this month". BusinessWorld. Archived from the original on 1 October 2019. Retrieved 1 October 2019.
+ "REVIEW: Mobile Legends: Bangbang Legends of Dawn – The Sacred Stone' Animated Series". msn. Archived from the original on 2 January 2022. Retrieved 2 January 2022.
+ "Animated series on Mobile Legends to air on ABS-CBN". ABS-CBN News. 6 August 2021. Archived from the original on 12 September 2021. Retrieved 12 September 2021.
+ Tuting, Kristine (9 August 2021). "Where to watch Mobile Legends anime 'The Legends of Dawn: The Sacred Stone'". ONE Esports. Archived from the original on 4 October 2023. Retrieved 12 September 2021.
+ "Magic Chess: Go Go". play.mc-gogo.com. Retrieved 27 December 2024.
+ "Magic Chess: Go Go surpasses 8 million pre-registrations, soft launch in Malaysia and Singapore imminent!-Develop games and fun for players all over the world". en.moonton.com. Retrieved 27 December 2024.
+ Rossel, John Dave (3 September 2021). "What is MPL? A Brief History of Mobile Legends: Bang Bang Professional League". AFK Gaming. Archived from the original on 21 April 2023. Retrieved 3 January 2022.
+ Ahmed, Wasif (27 June 2021). "Mobile Legends: Bang Bang Professional League (MPL) heads to Brazil". Dot Esports. Archived from the original on 28 May 2023. Retrieved 3 January 2022.
+ Hyrliková, Henrieta (29 July 2021). "Mobile Legends: Bang Bang expands MPL to Cambodia". Esportsinsider. Archived from the original on 3 January 2022. Retrieved 3 January 2022.
+ Elona, Jules (28 July 2021). "M3 Arabia Major: The winner will qualify for the MLBB M3 World Championship". One Esports. Archived from the original on 5 June 2023. Retrieved 3 January 2022.
+ "1 billion hours and counting: Mobile Legends: Bang Bang Professional League sets new global esports viewership record". Moonton. 22 October 2024. Retrieved 27 December 2024.
+ Sadang, Kim Earlie (1 September 2017). "'Mobile Legends: Bang Bang' MSC finals are ongoing". Blasting News US. Archived from the original on 25 September 2017. Retrieved 9 March 2020.
+ "A Legendary Competition: Mobile Legends MSC 2018". Archived from the original on 22 June 2019.
+ "Mobile Legends' Sea Cup (Msc) Will Feature a Us$120,000 Prize Pool". ONE Esports. 5 June 2019. Archived from the original on 1 January 2023. Retrieved 3 January 2022.
+ Elona, Jules (4 October 2021). "MPL MENA: Moonton launches new league in Middle East North Africa region". One Esports. Archived from the original on 6 June 2023. Retrieved 12 March 2022.
+ Sengupta, Shounak (5 November 2020). "ONE Esports and Moonton Announce $100K MPL Invitational in Partnership With Wonderful Indonesia". The Esports Observer. Archived from the original on 26 September 2023. Retrieved 17 January 2022.
+ Ahmed, Wasif. "Mobile Legends: Bang Bang (MLBB) Women's Invitational unveiled with $15,000 prize pool". Archived from the original on 18 January 2022. Retrieved 17 January 2022.
+ 2024 MLBB Esports Road Map. Archived from the original on 8 March 2024. Retrieved 17 April 2024 – via www.youtube.com.
+ "Philippine teams to compete in the first ever Mobile Legends: Bang Bang World Championship 2019". ABS-CBN Sports. 11 November 2019. Archived from the original on 16 November 2019. Retrieved 16 November 2019.
+ Marges, Jason (10 November 2019). "M1 2019: A Primer for the world's biggest Mobile Legends: Bang Bang Clash". One ESports. Archived from the original on 16 November 2019. Retrieved 16 November 2019.
+ Choudhury, Sayan (9 December 2020). "Mobile Legends M2 World Championship: All about global MLBB tournament". Gaming on Phone. Archived from the original on 28 May 2023. Retrieved 3 January 2022.
+ "The highly anticipated M3 World Championship will take place in December. 16 teams are confirmed to participate in the tournament. | ONE Esports". One Esports. Archived from the original on 28 May 2023. Retrieved 26 August 2021.
+ Mahato, Ashish (15 December 2021). "Mobile Legends M3 World Championship 2021: The RRQ vs ONIC PH series crosses the record of 3.18 million peak viewers". EsportsGen. Archived from the original on 9 December 2023. Retrieved 3 January 2022.
+ Elona, Jules (21 December 2021). "Which hero will get an M3 skin? OHEB and OhMyV33nus share their wish list". One Esports. Archived from the original on 21 September 2023. Retrieved 3 January 2022.
+ "M5 Champion Skin, FMVP Skin, and MPL Team Recall Effects are now available in Mobile Legends: Bang Bang!-Develop games and fun for players all over the world". en.moonton.com. Retrieved 27 December 2024.
+ Bulan, Charles Michael (11 July 2017). "League of Legends' Riot Games files lawsuit against Mobile Legends developers". ggwp. Archived from the original on 13 June 2020. Retrieved 8 January 2021.
+ "Riot Games Sues 'Mobile Legends' Creators for Copyright Infringement". Straatosphere. 11 July 2017. Archived from the original on 10 May 2021. Retrieved 8 January 2021.
+ Mickunas, Aaron (18 July 2018). "Riot Games parent Tencent wins $2.9 million in lawsuit against Moonton CEO". Dot Esports. Archived from the original on 11 July 2019. Retrieved 24 November 2019.
+ Lanier, Liz (19 July 2018). "Tencent Wins Lawsuit Over 'League of Legends' Copycat". Variety. Archived from the original on 30 March 2019. Retrieved 24 November 2019.
+ "Government Bans 59 mobile apps which are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order". Press Information Bureau, Government of India. 29 June 2020. Archived from the original on 29 June 2020. Retrieved 29 June 2020.
+ Pineda, Carlos (9 July 2021). "Team Secret CEO on alleged Mobile Legends exclusivity: 'Not good for competitive integrity'". Spin.ph. Archived from the original on 2 October 2023. Retrieved 10 July 2021.
+ Murray, Trent (9 July 2021). "Report: Mobile Legends teams could be forced to drop Wild Rift due to exclusivity contract – The Esports Observer". Archived from the original on 2 August 2023. Retrieved 11 July 2021.
+ Pineda, Carlos. "Moonton's exclusivity contract is 'only optional': Source". Spin.ph. Archived from the original on 1 January 2023. Retrieved 11 July 2021.
+ Dioquino, Delfin (24 December 2021). "Blacklist gets Estes skin as Moonton heeds calls from team, fans". Rappler. Archived from the original on 24 December 2021. Retrieved 9 January 2022.
+ Coloma, Angela (23 December 2021). "#WeWantEstes trends as 'rejected' M3 skin choice for Blacklist lamented". ABS-CBN News. Archived from the original on 12 October 2023. Retrieved 9 January 2022.
+ Mangubat, Lio. "MPL-PH on Estes controversy: M3 champion skin 'not yet determined'". Spin.ph. Archived from the original on 4 November 2023. Retrieved 10 January 2022.
+ Micaller, Bea (24 December 2021). "Moonton heeds Blacklist International's request, announces Estes as M3 champion skin". GMA News. Archived from the original on 4 February 2024. Retrieved 9 January 2022.
+
+
+ Most handsome in the World
+ Gerald

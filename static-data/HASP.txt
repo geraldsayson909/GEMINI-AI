@@ -1,0 +1,179 @@
+Halcyon Agile SaaS Platform (HASP)
+Management System
+USER MANUAL
+
+I. INTRODUCTION
+Welcome to the Halcyon Agile SaaS Platform (HASP) Content Management System (CMS) User Manual. This guide is designed to provide you with a clear and practical resource for using our CMS effectively.
+
+In the world of digital content management and website development, efficiency is key. At Halcyon Agile, we've created our CMS to be a reliable tool for these tasks. Whether you're experienced or just starting, this manual will be a helpful companion, offering step-by-step instructions and useful tips.
+
+Our CMS is built to be straightforward and flexible, adaptable to your project needs. In this manual, you'll find information on essential tasks like creating and editing content, customizing your website's appearance, and managing users.
+
+We appreciate your trust in Halcyon Agile as your web development partner. This manual is here to support you in using our CMS effectively. If you have any questions or need assistance, our support team is ready to help.
+
+Let's get started on your journey to mastering the Halcyon Agile CMS.
+
+II. GENERAL INFORMATION
+The HASP website is built with 2 parts, the CMS (backend) and the Website (frontend). The CMS is for internal use of the HASP administrators is where the website’s contents can be managed. The Website, on the other hand, is for the public’s use, where the contents are displayed. The website is written using React.js for its frontend, while the CMS is written using Laravel for its backend.
+The Key Features of the this website includes the following:
+✓ Includes an API based Progressive Web App (PWA) with almost full mobile app functionality. 
+✓ Mobile responsive and “mobile first” design. 
+✓ Easy to use CMS for managing contents, forms, menus, pages, taxonomies and globals.  
+Overall, the website offers greater flexibility and customization options than traditional CMS platforms, while providing a user-friendly interface for content management. Being an API-based system, this allows for integration of completely separate systems to be integrated with the website.
+
+A. SYSTEM OVERVIEW
+HASP CMS has the following functionalities:
+    1. Content Manager
+HASP CMS incorporated the following modules below:
+    1. Contents Manager
+    2. Forms Manager
+    3. Menus Manager
+    4. Pages Manager
+    5. Taxonomies Manager
+    6. Globals Manager
+
+
+III. GETTING STARTED
+
+A. DASHBOARD LOGIN
+
+To log in to the Content Management System (CMS) of your website, type the provided admin link in your web browser.
+
+After accessing the Login page, enter your Email address and Password. 
+
+B. DASHBOARD OVERVIEW
+
+After logging in, you’ll be taken directly to the Dashboard.
+
+The Deploy Static Site feature allows you to publish or update static pages—such as Our Company, Articles, and others—located under Contents, Forms, Menus, Pages, Taxonomies, and Globals.
+
+To deploy changes, simply click the Deploy button.
+
+C. CONTENT MANAGEMENT
+
+The Content Management module allows the client to manage the content and its content entries such as articles and catalogs. 
+
+    - In the Content Entries section, you can control the order in which entries appear on your website. Click the up/down arrow icon at the top-left of the table to enable reordering mode. Once activated, you can drag and drop the entries to your preferred order. After arranging them, click the check icon to save the new order. The entry at the top will be displayed first on your site.
+
+    1. CREATE CONTENT ENTRIES
+    -The content management displays the list of all the contents created.
+    -Click the content or edit to view its content entries.
+    -To create content entries, click the top right button that says ‘Create entry’.
+    -In creating the content entry, enter all the necessary information.
+    -After entering the information, click ‘Create’. It is located at both the top right corner and the bottom left corner.
+    
+    2. EDIT CONTENT ENTRIES
+    -To edit Content Entries, click the entry or edit button that needs to be edited.
+    -Edit the information that needs to be either changed or updated then click ‘Save changes’ then Save and Continue Editing.
+    -To unpublish the content entry, disable the status located at the top right corner under the "Status" label then click ‘Save changes’ then Save and Continue Editing.
+    -To preview the content entry you're adding or updating, click on "More Actions", then select "Preview Microsite". Choose the desired site, click Submit, and you'll be able to view the content pages or updates you've made.
+    -After saving, all changes made in the content content are logged and can be viewed at the bottom of the page in the section labeled ‘Activities’.
+
+    3. DELETE CONTENT ENTRY
+    -To delete the Content Entry, there is a button next to the “Save Changes”. Click the “Delete” button.
+
+E. FORMS MANAGEMENT
+
+The Forms Management module allows clients to manage forms used to gather information such as inquiries and feedback.
+
+    1. MANAGE FORM
+    - This section displays a list of all forms that have been created.
+
+    2. EDIT FORM
+    - To edit a form, click on the desired form or the associated edit button.
+    - Once selected, update the necessary form information and click ‘Save Changes’.
+    - After saving, all changes made to the form are recorded and can be viewed in the ‘Activities’ section at the bottom of the page.
+
+    3. VIEW FORM SUBMISSIONS
+    - The details of users who submitted the form can be found in the bottom section labeled "Form Submissions".
+
+F. MENUS MANAGEMENT
+
+The Menu Management module allows clients to create, view, edit, and delete menu items. A menu is a group of links designed to help users navigate the various pages and content of the website.
+
+    1. MANAGE MENU
+    - The Menu Management section displays a list of all created menus.
+
+    2. EDIT MENU
+    - To edit a menu, click on the desired menu or the edit button.
+    - Inside the menu, you can add a menu link by clicking "Add Nodes," then entering the label and target URL, and clicking submit.
+    - To modify a menu item, click the Pencil icon.
+    - To remove a menu item, click the Trash icon.
+    - After clicking an action button, update the necessary information and click Save Changes.
+    - Once saved, all updates made to the menu are logged and can be viewed at the bottom of the page in the ‘Activities’ section.
+
+G. PAGES MANAGEMENT
+
+The Pages Management module allows clients to create, view, edit, and delete pages. These pages serve as individual content sections of a website, such as the Homepage, About Us, Articles, or Contact pages.
+
+- To add new blocks, go to the Blocks section while editing a page. Click the "Add to Blocks" button—this will display the "Select a Block" within the Blocks section. After clicking "Select a Block", a sidebar will slide in from the left, allowing you to choose a design block. Once selected, the corresponding fields for that block will appear. Fill in the required information, then click ‘Save Changes’ and ‘Save and Continue Editing’.
+- To delete a block, click the trash icon next to the block name, then click ‘Save Changes’ and ‘Save and Continue Editing’.
+- To collapse or expand a block, click the "˄" icon next to the trash icon beside the block name.
+
+    1. MANAGE PAGE
+    - This section lists all the pages that have been created.
+
+    2. CREATE PAGE
+    - To create a new page, click the ‘New Page’ button located in the top right corner.
+    - Enter all required page information.
+    - Once completed, click the ‘Create Page’ button—available at both the top right and bottom left corners.
+
+    3. EDIT PAGE
+    - To edit an existing page, click on the page name or its associated edit button.
+    - Make the necessary updates, then click ‘Save Changes’ followed by ‘Save and Continue Editing’.
+    - To unpublish a page, toggle off the Published switch beside the ‘Published’ label, then save your changes.
+    - To preview the page, click the three dots icon beside the ‘Save Changes’ button in the top right corner, select ‘Preview Microsite’, choose the desired site, and click Submit to view the page.
+    - All changes are logged and can be viewed in the ‘Activities’ section at the bottom of the page.
+
+    4. DELETE PAGE
+    - To delete a page, click the three dots icon, then select Delete.
+
+H. TAXONOMIES MANAGEMENT
+
+The Taxonomies Management module allows clients to create, view, edit, and delete taxonomy items. Taxonomies are classification terms used to organize content—supporting functions like categorization, search, navigation, tagging, and establishing relationships between content items.
+
+
+    1. MANAGE TAXONOMY
+    - This section lists all the taxonomies that have been created.
+
+    2. EDIT TAXONOMY
+    - To edit a taxonomy, click on the desired taxonomy or the edit button.
+    - Within a taxonomy, you can add a new term by clicking "Add to terms," entering the name and required details, then clicking Submit.
+    - To modify a taxonomy item, click the Pencil icon.
+    - To remove a taxonomy item, click the Trash icon.
+    - After clicking an action button, update the necessary information and click Save Changes.
+    - Once saved, all updates made to the menu are logged and can be viewed at the bottom of the page in the ‘Activities’ section.
+
+
+I. GLOBALS MANAGEMENT
+
+The Globals Management module enables clients to view, and edit global content. Globals refer to shared information used across multiple pages of a website, such as the Footer (e.g., social media links) and Header (e.g., logo, meta data).
+
+
+    1. MANAGE GLOBALS
+    - This section lists all the globals that have been created.
+
+    2. EDIT GLOBALS
+    - To edit a global, click on the desired global or its corresponding edit button.
+    - Inside the global, you can modify the information as needed, then click "Save Changes".
+    - Once saved, all updates made to the globals are logged and can be viewed at the bottom of the page in the ‘Activities’ section.
+
+
+J. ACTIVITIES MODULE
+The activities display the list of all the activities happening in the CMS.
+Select and click the activities featured to view a more detailed activity.
+
+Don’t forget to click the Deploy button on the Dashboard whenever you make edits or updates in the CMS to apply the changes to your website.
+
+There is no limit to the number of users who can edit content in the HASP CMS, as long as they are not editing the same URL simultaneously.
+There is no restriction on the number of users who can edit content in the HASP CMS.
+
+
+Q: Can users access the CMS anywhere, or do we need to install any hardware to connect?
+A: Since we use a cloud-based architecture, users can access the CMS from anywhere as long as they have an internet connection. No additional hardware installation is required.
+
+
+
+
+
+
