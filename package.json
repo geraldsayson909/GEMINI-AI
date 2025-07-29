@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "formidable": "^3.5.4",
     "fs": "^0.0.1-security",
+    "mammoth": "^1.9.1",
     "next": "15.0.2",
     "path": "^0.12.7",
     "react": "19.0.0-rc-02c0e824-20241028",

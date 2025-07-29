@@ -1,63 +1,91 @@
 import { useState } from "react";
+import pagesData from "@/static-data/pages.json";
 
 export default function Home() {
   const [prompt, setPrompt] = useState("");
   const [response, setResponse] = useState("");
   const [loading, setLoading] = useState(false);
+  const [uploading, setUploading] = useState(false);
+  const [fileUploaded, setFileUploaded] = useState(false);
 
-  const handleSubmit = async (e) => {
+  const handleFileUpload = async (e) => {
+    setUploading(true);
+    const formData = new FormData();
+    formData.append("file", e.target.files[0]);
+
+    const res = await fetch("/api/upload", {
+      method: "POST",
+      body: formData,
+    });
+
+    const data = await res.json();
+    setFileUploaded(true);
+    alert(data.message);
+    setUploading(false);
+  };
+
+  const handlePromptSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    setResponse("");
+    const res = await fetch("/api/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ prompt }),
+    });
 
-    try {
-      const res = await fetch("/api/chat", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ prompt }),
-      });
-
-      const data = await res.json();
-      setResponse(data.message);
-    } catch (err) {
-      console.error("Error:", err);
-      setResponse("An error occurred while fetching response.");
-    } finally {
-      setLoading(false);
-    }
+    const data = await res.json();
+    setResponse(data.message);
+    setLoading(false);
   };
+
+  // console.log(pagesData,"TESTA")
 
   return (
     <main className="p-[30px]">
-      <form onSubmit={handleSubmit} className="mb-[20px]">
+      <h2 className="text-xl font-bold mb-4">1️⃣ Upload .docx File</h2>
+      <input type="file" accept=".docx" onChange={handleFileUpload} />
+      {uploading && <p>Uploading file...</p>}
+      {fileUploaded && <p className="text-green-600">✅ File uploaded.</p>}
+
+      <h2 className="text-xl font-bold mt-10 mb-4">2️⃣ Ask a Question</h2>
+      <form onSubmit={handlePromptSubmit}>
         <textarea
-          rows={4}
-          className="w-full p-[20px] text-black font-bold"
-          placeholder="Type your question about HASP CMS..."
           value={prompt}
           onChange={(e) => setPrompt(e.target.value)}
-          onKeyDown={(e) => {
-            if (e.key === "Enter" && !e.shiftKey) {
-              e.preventDefault();
-              handleSubmit(e);
-            }
-          }}
+          rows={4}
+          className="w-full p-2 border text-black"
+          placeholder="Ask something about the uploaded file..."
         />
-        <button
-          type="submit"
-          className="mt-[20px] p-[10px]"
-          disabled={loading}
-        >
-          {loading ? "Thinking..." : "Ask Gerald AI"}
+        <button type="submit" disabled={loading || !fileUploaded}>
+          {loading ? "Thinking..." : "Ask AI"}
         </button>
       </form>
 
-      <div>
-        <h2>📄 Gerald AI Response:</h2>
-        <p className="whitespace-pre-wrap">{response}</p>
+      <div className="mt-6">
+        <h2 className="font-semibold">📄 Answer:</h2>
+        <pre className="whitespace-pre-wrap">{response}</pre>
       </div>
+      {pagesData.length > 0 && (
+      <table className="min-w-full border-collapse border border-gray-300 mt-[50px]">
+        <thead>
+          <tr className="">
+            <th className="border px-4 py-2 text-left">Name</th>
+            <th className="border px-4 py-2 text-left">URL</th>
+            <th className="border px-4 py-2 text-left">Meta Keywords</th>
+            <th className="border px-4 py-2 text-left">Meta Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          {pagesData?.map((item, index) => (
+            <tr key={index} className="hover:bg-gray-50">
+              <td className="border px-4 py-2">{item?.name}</td>
+              <td className="border px-4 py-2">{item?.url}</td>
+              <td className="border px-4 py-2">{item?.description}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      )}
     </main>
   );
 }
