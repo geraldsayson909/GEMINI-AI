@@ -77,9 +77,10 @@ export default function Home() {
         </thead>
         <tbody>
           {pagesData?.map((item, index) => (
-            <tr key={index} className="hover:bg-gray-50">
+            <tr key={index} className="">
               <td className="border px-4 py-2">{item?.name}</td>
               <td className="border px-4 py-2">{item?.url}</td>
+              <td className="border px-4 py-2">{item?.keywords}</td>
               <td className="border px-4 py-2">{item?.description}</td>
             </tr>
           ))}
